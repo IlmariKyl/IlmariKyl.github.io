@@ -8,19 +8,19 @@ layout: default
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[GitHub](https://github.com/IlmariKyl), [Facebook](https://facebook.com/ilmari.kylliainen)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is of the form first_name.last_name@helsinki.fi.
+
+[**CV**](https://www.overleaf.com/read/eiolevalmisviela)
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Models and Algorithms in NLP-Applications](https://courses.helsinki.fi/en/LDA-T3105/124901235), fall 2018
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
 
-## Projects
 
 ## Misc. 
 
