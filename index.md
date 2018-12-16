@@ -22,7 +22,7 @@ My email address is of the form first_name.last_name@helsinki.fi.
 [Models and Algorithms in NLP-Applications](https://courses.helsinki.fi/en/LDA-T3105/124901235), fall 2018  
 [Linear algebra and matrices I](https://courses.helsinki.fi/en/mat11002/125180641), summer 2018  
 [Machine Learning for Linguists](https://courses.helsinki.fi/en/KIK-LG210/125773141), spring 2017  
-[Morphological Processing Tools II](https://weboodi.helsinki.fi/hy/  opintjakstied.jsp?MD5avain=91f1c1cf-b836-46a0-8242-10ca1655bd8a&OpinKohd=88032504&takaisin=omatopinn.jsp&NaytSuor=1&NaytSuun=0&NaytIlm=0&NaytHyl=0&Kieli=6), spring 2017  
+[Morphological Processing Tools II](https://courses.helsinki.fi/en/406374/114752827), spring 2017  
 [Computer Organization I](https://courses.helsinki.fi/en/tkt10005/125583374), spring 2017  
 [Methods for Software Engineering](https://courses.helsinki.fi/en/tkt20002/124961528), fall 2016  
 
