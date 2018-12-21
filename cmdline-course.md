@@ -34,7 +34,7 @@ The weekly schedule of the course was as follows:
 
 As I had already installed Ubuntu Virtual machine on my computer and I knew the very basic UNIX commands, I didn't learn that much new things during the first week. However, getting more familiar with the `wget` command turned out to be very useful, I don't think there is an equivalent for that in Windows.  
 
-* `wget [option] [URL]` *Retrieves content from web servers*
+* `wget [option] [URL]` *Retrieve content from web servers*
 
 ## Week 2
 

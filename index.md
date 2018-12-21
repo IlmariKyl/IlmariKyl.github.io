@@ -4,8 +4,7 @@ layout: default
 
 ## Introduction
 
-I am a Language Technology student at the University of Helsinki, currently writing my Bachelor's thesis. 
-Some interests of mine within the field of Language technology are machine learning, artificial intelligence, morphologically complex languages, speech recognition and software for studying languages. I also like studying new languages and playing around with technology in general. My other hobbies include sports (e.g. running, gym, football, squash), playing the piano and reading.
+<img src="assets/images/IMG_20171119_105518.jpg" alt="Photo" hspace="20" width="95%" align="top"/> I am a Language Technology student at the University of Helsinki, currently writing my Bachelor's thesis. Some interests of mine within the field of Language technology are machine learning, artificial intelligence, morphologically complex languages, speech recognition and software for studying languages. I also like studying new languages and playing around with technology in general. My other hobbies include sports (e.g. running, gym, football, squash), playing the piano and reading.
 
 ## Find me on
 
